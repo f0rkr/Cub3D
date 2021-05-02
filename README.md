@@ -1,7 +1,7 @@
 # Cub3D
 The goal of ``Cub3D`` is to make *something* using raycasting from scratch with low level C ✨ (like [Wolfenstein 3D](https://fr.wikipedia.org/wiki/Wolfenstein_3D)).
 
-<img align="center" src="cub.png" alt="Screenshot of the game" />
+<img align="center" width=700px height=700px src="cub.png" alt="Screenshot of the game" />
 
 Making this game gave a basic idea on how games are being made, it's was a fun experience.
 Althoug It was pain in the arss, managing all memory leaks and function that's make you do yourself.
@@ -14,10 +14,9 @@ Enjoy it 🎴
 
 You can edit map.cub to change textures and player position, plus sprites.
 
-<img src="map.png" alt="Screenshot of the map config file" />
+<img src="map.png" width=400px height=400px alt="Screenshot of the map config file" />
 
 It also has the feature to screenshot the game and save in a bmp format simply by adding --save to your command.
-
 use: 
 
 ``f0rkr@shell» ./cub3D map.cub --save``
