@@ -10,7 +10,7 @@ Enjoy it 🎴
 # Usage
 ``make``
 ``./cub3D map.cub``</br>
-You can edit map.cub to change textures and player position, plus sprites.<br/>
+You can edit map.cub to change textures and player position, plus sprites.</br>
 <img src="map.png" alt="Screenshot of the map config file" />
 
 It also has the feature to screenshot the game and save in a bmp format simply by adding --save to your command.</br>
