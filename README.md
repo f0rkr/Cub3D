@@ -12,7 +12,7 @@ Enjoy it 🎴
 ``f0rkr@shell» make`` </br>
 ``f0rkr@shell» ./cub3D map.cub``
 
-You can edit map.cub to change textures and player position, plus sprites.
+You can edit map.cub to change textures and player position, sprites textures, colors and map form.
 
 <img src="map.png" width=400px height=400px alt="Screenshot of the map config file" />
 
