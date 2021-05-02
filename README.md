@@ -8,12 +8,16 @@ Althoug It was pain in the arss, managing all memory leaks and function that's m
 Enjoy it 🎴
 
 # Usage
+
 ``make``
-``./cub3D map.cub``</br>
-You can edit map.cub to change textures and player position, plus sprites.</br>
+``./cub3D map.cub``
+
+You can edit map.cub to change textures and player position, plus sprites.
+
 <img src="map.png" alt="Screenshot of the map config file" />
 
-It also has the feature to screenshot the game and save in a bmp format simply by adding --save to your command.</br>
+It also has the feature to screenshot the game and save in a bmp format simply by adding --save to your command.
+
 use: ``./cub3D map.cub --save``
 
 # Resources I used:
