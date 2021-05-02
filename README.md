@@ -9,8 +9,8 @@ Enjoy it 🎴
 
 # Usage
 
-``make``
-``./cub3D map.cub``
+*[f0rkr](https://f0rkr.me)@shell#* ``make``
+*[f0rkr](https://f0rkr.me)@shell#* ``./cub3D map.cub``
 
 You can edit map.cub to change textures and player position, plus sprites.
 
@@ -18,7 +18,9 @@ You can edit map.cub to change textures and player position, plus sprites.
 
 It also has the feature to screenshot the game and save in a bmp format simply by adding --save to your command.
 
-use: ``./cub3D map.cub --save``
+use: 
+
+*[f0rkr](https://f0rkr.me)@shell#* ``./cub3D map.cub --save``
 
 # Resources I used:
 
