@@ -4,7 +4,7 @@ The goal of ``Cub3D`` is to make *something* using raycasting from scratch with 
 <img align="center" width=700px height=700px src="cub.png" alt="Screenshot of the game" />
 
 Making this game gave me a basic idea on how games are made, it's was a fun experience.
-Althoug It was pain in the arss, managing all memory leaks and function that's *C* makes you do on your own.
+Althoug It was pain in the arse, managing all memory leaks and function that's *C* makes you do on your own.
 Enjoy it 🎴
 
 # Usage
